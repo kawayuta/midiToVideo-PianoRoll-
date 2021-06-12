@@ -1,6 +1,7 @@
 # midiToVideo-PianoRoll-
 
 ## should install packages and other
+rust
 python3
 ffmpeg
 imagemagick
